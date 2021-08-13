@@ -1,1 +1,17 @@
-[{"id":"8jyqBFjkJjPCNJyFrWuF0dTKaDj1","email":"vhugo@gmail.com","fullName":"Victor Hugo"},{"id":"OMxd7FSskSgo6ht9pANqjhBvdDe2","email":"jsmith@gmail.com","fullName":"John Smith"},{"id":"FukPGwaFA4hzKqWqoI95aSryTPw1","email":"hjones@gmail.com","fullName":"Hannah Jones"}]
+[
+    {
+        "id": "8jyqBFjkJjPCNJyFrWuF0dTKaDj1",
+        "email": "vhugo@gmail.com",
+        "fullName": "Victor Hugo"
+    },
+    {
+        "id": "OMxd7FSskSgo6ht9pANqjhBvdDe2",
+        "email": "jsmith@gmail.com",
+        "fullName": "John Smith"
+    },
+    {
+        "id": "FukPGwaFA4hzKqWqoI95aSryTPw1",
+        "email": "hjones@gmail.com",
+        "fullName": "Hannah Jones"
+    }
+]
